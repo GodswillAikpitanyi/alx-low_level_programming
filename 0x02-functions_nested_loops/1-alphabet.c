@@ -4,7 +4,7 @@
  * main - a function that prints the alphabet in lowercase
  *
  * Description - print_alphabet - print alphabet lowercase
- *
+ * 
  * Return: Always 0.
  */
 
@@ -21,9 +21,3 @@ void print_alphabet(void)
 
 }
 
-int main(void)
-{
-	print_alphabet();
-
-	return (0);
-}
