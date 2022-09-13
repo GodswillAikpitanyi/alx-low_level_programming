@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- *_abs - absolute value
+ * _abs - value absolute
  *
- *@n: the int to print
+ *@n: The int to print
  *
- * return Always 0.
+ * Return: Always 0.
  */
 
 int _abs(int n)
