@@ -2,16 +2,15 @@
 #include <stdio.h>
 
 /**
- * main - a function abs that prints the absolut value
+ *_abs - absolute value
  *
- * the int to print is n
+ *@n: the int to print
  *
  * return Always 0.
  */
 
 int _abs(int n)
 {
-
 	if (n < 0)
 	{
 		return (n * (-1));

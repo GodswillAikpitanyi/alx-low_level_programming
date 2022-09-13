@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * main - a function that prints the alphabet in lowercase
+ * print_alphabet - prints alphabet in lowercase
  *
- * Description - print_alphabet - print alphabet lowercase
- * 
  * Return: Always 0.
  */
 
