@@ -14,7 +14,7 @@ void print_string(va_list arg);
 void print_all(const char * const format, ...);
 
  /**
-  * print_char - Prints a char.
+  * print_char - prints a character
   * @arg: A list of arguments pointing to
   * the character to be printed.
   */
@@ -27,7 +27,7 @@ void print_char(va_list arg)
 }
 
 /**
- * print_int - Prints an int.
+ * print_int - Prints an integer.
  * @arg: A list of arguments pointing to
  * the integer to be printed.
  */
